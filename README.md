@@ -55,3 +55,23 @@
 ### **PIPE financia produtos prontos?**
 - **Pergunta:** "Consigo financiamento para comercializar um produto finalizado?"
 - **Resposta:** Não, o PIPE financia pesquisa, não comercialização.
+
+## Uso do ChatBot
+Olá: 
+![image](https://github.com/user-attachments/assets/5de78577-52d1-4779-ba18-5210eae9e157)
+
+Perguntando sobre pular a primeira etapa:
+![image](https://github.com/user-attachments/assets/a1046564-6d97-479a-b517-ca1749d7e345)
+
+Perguntando que tipo de empresa pode participar: 
+![image](https://github.com/user-attachments/assets/73341301-e782-43a8-960a-2b2206b4ace3)
+
+Perguntando sobre quais são as etapas do pipe:
+![image](https://github.com/user-attachments/assets/45c287fd-1183-4d36-92d0-63a0078257da)
+
+Se despedindo: 
+![image](https://github.com/user-attachments/assets/0e7d970e-5c32-4fad-8706-b3c98988c21d)
+
+
+
+
